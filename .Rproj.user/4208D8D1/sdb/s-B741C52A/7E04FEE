@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "(function() {\n  var i, text, code, codes = document.getElementsByTagName('code');\n  for (i = 0; i < codes.length;) {\n    code = codes[i];\n    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {\n      text = code.textContent;\n      if (/^\\$[^$]/.test(text) && /[^$]\\$$/.test(text)) {\n        text = text.replace(/^\\$/, '\\\\(').replace(/\\$$/, '\\\\)');\n        code.textContent = text;\n      }\n      if (/^\\\\\\((.|\\s)+\\\\\\)$/.test(text) || /^\\\\\\[(.|\\s)+\\\\\\]$/.test(text) ||\n          /^\\$(.|\\s)+\\$$/.test(text) ||\n          /^\\\\begin\\{([^}]+)\\}(.|\\s)+\\\\end\\{[^}]+\\}$/.test(text)) {\n        code.outerHTML = code.innerHTML;  // remove <code></code>\n        continue;\n      }\n    }\n    i++;\n  }\n})();\n",
+    "created" : 1501051292794.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "737795582",
+    "id" : "7E04FEE",
+    "lastKnownWriteTime" : 1500949820,
+    "last_content_update" : 1500949820,
+    "path" : "D:/Hugo/Sites/vxn/themes/hugo-lithium-theme/static/js/math-code.js",
+    "project_path" : "themes/hugo-lithium-theme/static/js/math-code.js",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "js"
+}
