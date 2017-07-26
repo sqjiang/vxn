@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "baseurl = \"/\"\nrelativeurls = true\nlanguageCode = \"en-us\"\ntitle = \"防疫针\"\ntheme = \"hugo-lithium-theme\"\ngoogleAnalytics = \"\"\ndisqusShortname = \"\"\nignoreFiles = [\"\\\\.Rmd$\", \"_files$\", \"_cache$\"]\n\n[permalinks]\n    post = \"/:year/:month/:day/:slug/\"\n\n[[menu.main]]\n    name = \"About\"\n    url = \"/about/\"\n[[menu.main]]\n    name = \"GitHub\"\n    url = \"https://github.com/rstudio/blogdown\"\n\n\n[params]\n    description = \"A website built through Hugo and blogdown.\"\n\n    # options for highlight.js (version, additional languages, and theme)\n    highlightjsVersion = \"9.11.0\"\n    highlightjsCDN = \"//cdn.bootcss.com\"\n    highlightjsLang = [\"r\", \"yaml\"]\n    highlightjsTheme = \"github\"\n\n    MathJaxCDN = \"//cdn.bootcss.com\"\n    MathJaxVersion = \"2.7.1\"\n\n    [params.logo]\n    url = \"logo.png\"\n    width = 50\n    height = 50\n    alt = \"Logo\"\n\n",
+    "created" : 1501050925665.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1567632905",
+    "id" : "35CFCBA1",
+    "lastKnownWriteTime" : 1501051022,
+    "last_content_update" : 1501051022793,
+    "path" : "D:/Hugo/Sites/vxn/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
