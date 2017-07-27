@@ -17,7 +17,8 @@
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/07/26/2017%E5%B9%B4%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86%E4%B8%80%E5%A4%A7%E5%8D%8A/</guid>
-      <description>忙忙碌碌，2017已过大半。</description>
+      <description>忙忙碌碌，2017已过大半。
+收拾心情，继续前行。</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>本站主要关注免疫规划和预防接种，网站基于Hugo静态网站生成，用Rstudio作为代码工具，采用谢益辉发布的 blogdown包，主题采用默认的 hugo-lithium-theme.通过NETLIFY进行部署，在阿里云注册并购买了vxns.group域名，可以通过www.vxns.group和vxns.group两种方式进行访问。</description>
     </item>
     
     <item>
@@ -51,13 +52,22 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
+      <title>山东非法疫苗案案发</title>
+      <link>/2015/04/28/%E5%B1%B1%E4%B8%9C%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88%E6%A1%88%E5%8F%91/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/04/28/%E5%B1%B1%E4%B8%9C%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88%E6%A1%88%E5%8F%91/</guid>
+      <description> 2015年4月28日，山东非法疫苗案案发。  </description>
+    </item>
+    
+    <item>
       <title>Hello，免疫规划</title>
       <link>/2015/01/01/hello%E5%85%8D%E7%96%AB%E8%A7%84%E5%88%92/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
       <guid>/2015/01/01/hello%E5%85%8D%E7%96%AB%E8%A7%84%E5%88%92/</guid>
       <description>免疫规划，我来了
-从此加入了免疫规划的阵营，关注预防接种，关注疫苗。</description>
+从此加入了免疫规划的阵营，关注预防接种，关注疫苗,关注健康。</description>
     </item>
     
   </channel>
