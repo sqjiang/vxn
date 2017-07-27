@@ -1,0 +1,38 @@
+---
+title: presentation
+author: JIIANG
+date: '2017-07-27'
+slug: presentation
+categories: []
+tags: []
+output: ioslides_presentation
+---
+
+
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+----
+
+![picture of spaghetti](images/spaghetti.jpg)
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
