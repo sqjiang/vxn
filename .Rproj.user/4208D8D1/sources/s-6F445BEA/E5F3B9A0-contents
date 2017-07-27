@@ -5,7 +5,9 @@ date: '2017-07-27'
 slug: presentation
 categories: []
 tags: []
-output: ioslides_presentation
+output: 
+  slidy_presentation:
+    incremental: true
 ---
 
 
