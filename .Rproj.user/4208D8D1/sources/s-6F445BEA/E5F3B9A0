@@ -5,15 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "4037917372",
     "id" : "E5F3B9A0",
-    "lastKnownWriteTime" : 1501145310,
-    "last_content_update" : 1501145310423,
+    "lastKnownWriteTime" : 1501145656,
+    "last_content_update" : 1501145656374,
     "path" : "D:/Hugo/Sites/vxn/content/post/2017-07-27-presentation.Rmd",
     "project_path" : "content/post/2017-07-27-presentation.Rmd",
     "properties" : {
-        "cursorPosition" : "30,0",
-        "scrollLine" : "15"
+        "cursorPosition" : "37,17",
+        "scrollLine" : "4",
+        "working_dir" : "current"
     },
     "relative_order" : 3,
     "source_on_save" : false,
