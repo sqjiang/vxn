@@ -3,13 +3,10 @@ title: "presentation"
 author: "JIIANG"
 date: '2017-07-27'
 output:
-  ioslides_presentation:
-    incremental: yes
-  slidy_presentation:
-    incremental: yes
-slug: presentation
-tags: []
-categories: []
+blogdown::html_page:
+toc: true
+fig_width: 6
+dev: "svg"
 ---
 
 
