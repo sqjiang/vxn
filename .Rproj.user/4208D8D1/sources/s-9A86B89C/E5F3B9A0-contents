@@ -2,7 +2,7 @@
 title: "presentation"
 author: "JIIANG"
 date: '2017-07-27'
-output:beamer_presentation
+output: slidy_presentation
 ---
 
 

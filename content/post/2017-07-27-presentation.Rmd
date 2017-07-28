@@ -2,11 +2,7 @@
 title: "presentation"
 author: "JIIANG"
 date: '2017-07-27'
-output:
-blogdown::html_page:
-toc: true
-fig_width: 6
-dev: "svg"
+output: slidy_presentation
 ---
 
 
