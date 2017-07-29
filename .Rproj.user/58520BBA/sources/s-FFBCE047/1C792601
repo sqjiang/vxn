@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1501308894035.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1229272422",
+    "id" : "1C792601",
+    "lastKnownWriteTime" : 1501308904,
+    "last_content_update" : 1501308904890,
+    "path" : "~/Hugo/Sites/vxn/R/build.R",
+    "project_path" : "R/build.R",
+    "properties" : {
+        "cursorPosition" : "0,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

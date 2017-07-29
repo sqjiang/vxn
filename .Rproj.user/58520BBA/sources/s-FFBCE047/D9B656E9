@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1501308811268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1664678136",
+    "id" : "D9B656E9",
+    "lastKnownWriteTime" : 1501310127,
+    "last_content_update" : 1501310127997,
+    "path" : "~/Hugo/Sites/vxn/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "4,19",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
