@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1664678136",
+    "hash" : "2635777378",
     "id" : "D9B656E9",
-    "lastKnownWriteTime" : 1501310127,
-    "last_content_update" : 1501310127997,
+    "lastKnownWriteTime" : 1501310448,
+    "last_content_update" : 1501310448968,
     "path" : "~/Hugo/Sites/vxn/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "4,19",
+        "cursorPosition" : "8,0",
         "scrollLine" : "0"
     },
     "relative_order" : 1,
