@@ -1,14 +1,13 @@
-baseurl = "https://www.vxns.group/"
+baseurl = "https://vxns.group/"
 relativeurls = true
 languageCode = "en-us"
 title = "防疫针"
-theme = "hugo-xmin"
+theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-
+hasCJKLanguage: true
 enableEmoji: true
-preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
