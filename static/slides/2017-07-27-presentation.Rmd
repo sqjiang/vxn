@@ -3,12 +3,14 @@ title: "presentation"
 author: "JIIANG"
 date: '2017-07-27'
 output:
-xaringan::moon_reader:
+  xaringan::moon_reader:
     lib_dir: libs
     mathjax: null
     nature:
       highlightStyle: github
       countIncrementalSlides: false
+---
+
 
 # In the morning
 
