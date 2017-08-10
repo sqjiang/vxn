@@ -1,0 +1,7 @@
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=113.935099, lat=22.519076, popup="Nanshan CDC")
+
+m
