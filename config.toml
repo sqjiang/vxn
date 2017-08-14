@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://www.vxns.group/"
 languageCode = "en-us"
 title = "Vaccines and Immunization"
 theme = "hugo-lithium-theme"
@@ -22,7 +22,7 @@ footnotereturnlinkcontents = "↩"
 
 
 [params.logo]
-    url:"logo.png"
+    url:"images/logo.png"
     width=50
     height=50
     alt="Logo"
