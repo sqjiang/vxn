@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Question on Vaccines and Immunization</title>
-    <link>/categories/question/</link>
+    <link>http://www.vxns.group/categories/question/</link>
     <description>Recent content in Question on Vaccines and Immunization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/question/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.vxns.group/categories/question/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于麻腮风疫苗的新要求</title>
-      <link>/2017/08/10/mmr/</link>
+      <link>http://www.vxns.group/2017/08/10/mmr/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/08/10/mmr/</guid>
+      <guid>http://www.vxns.group/2017/08/10/mmr/</guid>
       <description> 2007年3月1日以后出生的儿童，不满足2剂次麻类，1剂次腮腺炎和1剂次风疹成分者，优先接种1剂次麻腮风疫苗，缺苗时可用麻风替代。
  </description>
     </item>
