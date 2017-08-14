@@ -1,8 +1,8 @@
 {
-    "path" : "D:/Hugo/Sites/vxn/themes/hugo-lithium-theme/layouts/partials",
+    "path" : "D:/Hugo/Sites/vxn",
     "sortOrder" : [
         {
-            "ascending" : false,
+            "ascending" : true,
             "columnIndex" : 2
         }
     ]

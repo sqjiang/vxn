@@ -20,7 +20,10 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = "A website built through Hugo and blogdown."
 
-    logo:
-     img:"/images/logo.png"
-     url:"/"
+
+[params.logo]
+    url:"logo.png"
+    width=50
+    height=50
+    alt="Logo"
 

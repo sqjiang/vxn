@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3411694295",
     "id" : "67556836",
-    "lastKnownWriteTime" : 1502514624,
-    "last_content_update" : 1502514624313,
+    "lastKnownWriteTime" : 1502686684,
+    "last_content_update" : 1502686684918,
     "path" : "D:/Hugo/Sites/vxn/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "23,27",
-        "scrollLine" : "1"
+        "cursorPosition" : "24,18",
+        "scrollLine" : "3"
     },
     "relative_order" : 4,
     "source_on_save" : false,
