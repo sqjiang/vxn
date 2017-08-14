@@ -12,12 +12,14 @@ footnotereturnlinkcontents = "↩"
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-     name: "Home"
-     url: "/"
-
+    name = "About"
+    url = "/about/"
 [[menu.main]]
-     name = "About"
-     url = "/about/"
+    name = "GitHub"
+    url = "https://github.com/rstudio/blogdown"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/rstudio"
 
 [params]
     description = "A website built through Hugo and blogdown."
