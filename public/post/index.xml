@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vaccines and Immunization</title>
-    <link>http://www.vxns.group/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Vaccines and Immunization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.vxns.group/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>国家免疫规划疫苗儿童免疫程序表（2016版）</title>
-      <link>http://www.vxns.group/2017/08/11/national-immunization-schedules/</link>
+      <link>/2017/08/11/national-immunization-schedules/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/08/11/national-immunization-schedules/</guid>
+      <guid>/2017/08/11/national-immunization-schedules/</guid>
       <description>$$国家免疫规划疫苗儿童免疫程序表2016年版$$    疫苗种类      接 种 年 / 月 龄          名称 缩写 出生时 1月 2月 3月 4月 5月 6月 8月 9月 18月 2岁 3岁 4岁 5岁 6岁   乙肝疫苗1 HepB 1 2     3           卡介苗2 BCG 1                 脊髓灰质炎灭活疫苗3 IPV   1               脊髓灰质炎减毒活疫苗 OPV    1 2        3     百白破疫苗4 DTaP    1 2 3    4        白破疫苗 DT               1   麻风疫苗[^5] MR        1          麻腮风疫苗 MMR          1        乙脑减毒活疫苗[^6] JE-L        1   2       A群流脑多糖疫苗[^7] MPSV-A       1  2         A群C群流脑多糖疫苗[^8] MPSV-AC            1   2   甲肝减毒活疫苗[^9] HepA-L          1         注意事项</description>
     </item>
     
     <item>
       <title>关于麻腮风疫苗的新要求</title>
-      <link>http://www.vxns.group/2017/08/10/mmr/</link>
+      <link>/2017/08/10/mmr/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/08/10/mmr/</guid>
+      <guid>/2017/08/10/mmr/</guid>
       <description> 2007年3月1日以后出生的儿童，不满足2剂次麻类，1剂次腮腺炎和1剂次风疹成分者，优先接种1剂次麻腮风疫苗，缺苗时可用麻风替代。
  </description>
     </item>
     
     <item>
       <title>扩大免疫规划10年</title>
-      <link>http://www.vxns.group/2017/08/10/epi/</link>
+      <link>/2017/08/10/epi/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/08/10/epi/</guid>
+      <guid>/2017/08/10/epi/</guid>
       <description>扩大免疫规划简称EPI，是由WHO提出的，包括两方面，一是要求不断扩大免疫接种的覆盖面，使每个儿童出生后都能获得免疫接种的机会；二是要求不断扩大免疫接种的疫苗，除接种“六苗”外，各地应根据当地的情况增加接种疫苗的种类。
 其中，六苗是指乙肝，卡介苗，无细胞百白破疫苗，白破疫苗，脊灰疫苗以及麻疹疫苗，2008年我国发布《扩大国家免疫规划实施方案》。该方案规定在上述六苗的基础上，加种麻腮风疫苗，流脑疫苗，乙脑疫苗以及甲肝疫苗等，各地区还可根据自身情况接种其他疫苗。
  卫生部关于印发《扩大国家免疫规划实施方案》的通知 卫疾控发〔２００７〕３０５号
@@ -105,29 +105,29 @@
     
     <item>
       <title>关于3月龄以上幼儿接种卡介苗的疑问？</title>
-      <link>http://www.vxns.group/2017/08/01/ppd-and-bcg/</link>
+      <link>/2017/08/01/ppd-and-bcg/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/08/01/ppd-and-bcg/</guid>
+      <guid>/2017/08/01/ppd-and-bcg/</guid>
       <description>按照我们国家的免疫规划程序，正常情况下，婴儿在出生的时候应接种1剂卡介苗,并要求3个月内完成接种。对于3月龄～3岁儿童，对结核菌素纯蛋白衍生物（TB-PPD）或卡介菌蛋白衍生物（BCG-PPD）试验阴性者，应予补种。≥4岁儿童不予补种。已接种卡介苗的儿童，即使卡痕未形成也不再予以补种。
  那么，做完PPD试验后多久能接种？一般情况下，若结果为阴性，应马上接种。部分家长做完试验后，未及时接种，拖了几个月才到接种单位进行接种，导致接种单位难以评估是否可以接种。也就是说，PPD试验的结果，多久有效？  考虑结核杆菌的潜伏期或者潜隐期，若结果为阴性，建议4到8周之后再次进行PPD试验。</description>
     </item>
     
     <item>
       <title>first presentation</title>
-      <link>http://www.vxns.group/2017/07/29/first-presentation/</link>
+      <link>/2017/07/29/first-presentation/</link>
       <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/07/29/first-presentation/</guid>
+      <guid>/2017/07/29/first-presentation/</guid>
       <description>presentation</description>
     </item>
     
     <item>
       <title>HPV Vaccine 获批上市</title>
-      <link>http://www.vxns.group/2017/07/27/hpv-vaccine/</link>
+      <link>/2017/07/27/hpv-vaccine/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/07/27/hpv-vaccine/</guid>
+      <guid>/2017/07/27/hpv-vaccine/</guid>
       <description> HPV疫苗进入大陆 默沙东生产的佳达修和葛兰素史克生产的希瑞适两种HPV疫苗近期获批在中国大陆上市。
  佳达修为四价HPV疫苗，适用于20-45岁女性。
  希瑞适为双价HPV疫苗，适用于9-25岁女性。
@@ -137,10 +137,10 @@
     
     <item>
       <title>下半年传染病风险评估</title>
-      <link>http://www.vxns.group/2017/07/27/riskassessment/</link>
+      <link>/2017/07/27/riskassessment/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/07/27/riskassessment/</guid>
+      <guid>/2017/07/27/riskassessment/</guid>
       <description> 广东省疾控中心发布下半年广东省重点急性传染病疫情风险评估与防控建议的报告。  专家评估认为：
  2017 年下半年，我省在急性传染病方面应“特别关注”登革热、人禽流感疫情，“重点关注”诺如病毒感染性腹泻疫情；在疫苗可预防疾病方面“需要关注”水痘疫情。同时，对近年来发病水平呈现持续上升趋势的传染病（如猩红热、布鲁氏病、百日咳等）予以“需要关注”。对输入性传染病，则“重点关注”基孔肯雅热、“需要关注”寨卡病毒病、中东呼吸综合征和脊髓灰质炎等可因输入导致突发公共卫生事件的疾病。
   疫苗可预防疾病方面“需要关注”水痘疫情 。
@@ -152,10 +152,10 @@
     
     <item>
       <title>省政府发文加强疫苗流通和预防接种管理</title>
-      <link>http://www.vxns.group/2017/07/27/strengthenmanagement/</link>
+      <link>/2017/07/27/strengthenmanagement/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/07/27/strengthenmanagement/</guid>
+      <guid>/2017/07/27/strengthenmanagement/</guid>
       <description> 广东省人民政府办公厅关于进一步加强疫苗流通和预防接种管理工作的实施意见  粤府办〔2017〕43号
   一、完善疫苗管理机制
 （一）健全全省免疫规划疫苗调整机制
@@ -179,30 +179,30 @@
     
     <item>
       <title>2017年已经过去了一大半</title>
-      <link>http://www.vxns.group/2017/07/26/2017%E5%B9%B4%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86%E4%B8%80%E5%A4%A7%E5%8D%8A/</link>
+      <link>/2017/07/26/2017%E5%B9%B4%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86%E4%B8%80%E5%A4%A7%E5%8D%8A/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2017/07/26/2017%E5%B9%B4%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86%E4%B8%80%E5%A4%A7%E5%8D%8A/</guid>
+      <guid>/2017/07/26/2017%E5%B9%B4%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86%E4%B8%80%E5%A4%A7%E5%8D%8A/</guid>
       <description>忙忙碌碌，2017已过大半。
 收拾心情，继续前行。</description>
     </item>
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>http://www.vxns.group/2016/12/30/a-plain-markdown-post/</link>
+      <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>http://www.vxns.group/2016/12/30/a-plain-markdown-post/</guid>
+      <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>国务院修订疫苗流通和预防接种管理条例</title>
-      <link>http://www.vxns.group/2016/04/23/%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%AE%E8%AE%A2%E7%96%AB%E8%8B%97%E6%B5%81%E9%80%9A%E5%92%8C%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B/</link>
+      <link>/2016/04/23/%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%AE%E8%AE%A2%E7%96%AB%E8%8B%97%E6%B5%81%E9%80%9A%E5%92%8C%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B/</link>
       <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2016/04/23/%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%AE%E8%AE%A2%E7%96%AB%E8%8B%97%E6%B5%81%E9%80%9A%E5%92%8C%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B/</guid>
+      <guid>/2016/04/23/%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%AE%E8%AE%A2%E7%96%AB%E8%8B%97%E6%B5%81%E9%80%9A%E5%92%8C%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B/</guid>
       <description>中华人民共和国国务院令 第668号
 《国务院关于修改〈疫苗流通和预防接种管理条例〉的决定》已经2016年4月13日国务院第129次常务会议通过，现予公布，自公布之日起施行。
 总理 李克强
@@ -211,47 +211,47 @@
     
     <item>
       <title>山东非法疫苗案案发</title>
-      <link>http://www.vxns.group/2015/04/28/%E5%B1%B1%E4%B8%9C%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88%E6%A1%88%E5%8F%91/</link>
+      <link>/2015/04/28/%E5%B1%B1%E4%B8%9C%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88%E6%A1%88%E5%8F%91/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/2015/04/28/%E5%B1%B1%E4%B8%9C%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88%E6%A1%88%E5%8F%91/</guid>
+      <guid>/2015/04/28/%E5%B1%B1%E4%B8%9C%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88%E6%A1%88%E5%8F%91/</guid>
       <description> 2015年4月28日，山东非法疫苗案案发。  </description>
     </item>
     
     <item>
       <title>Hello，免疫规划</title>
-      <link>http://www.vxns.group/2015/01/01/hello%E5%85%8D%E7%96%AB%E8%A7%84%E5%88%92/</link>
+      <link>/2015/01/01/hello%E5%85%8D%E7%96%AB%E8%A7%84%E5%88%92/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>http://www.vxns.group/2015/01/01/hello%E5%85%8D%E7%96%AB%E8%A7%84%E5%88%92/</guid>
+      <guid>/2015/01/01/hello%E5%85%8D%E7%96%AB%E8%A7%84%E5%88%92/</guid>
       <description>免疫规划，我来了
 从此加入了免疫规划的阵营，关注预防接种，关注疫苗,关注健康。</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.vxns.group/1/01/01/</link>
+      <link>/1/01/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/1/01/01/</guid>
+      <guid>/1/01/01/</guid>
       <description>扩大免疫规划code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.vxns.group/1/01/01/</link>
+      <link>/1/01/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/1/01/01/</guid>
+      <guid>/1/01/01/</guid>
       <description>关于麻腮风疫苗的新要求code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.vxns.group/1/01/01/</link>
+      <link>/1/01/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vxns.group/1/01/01/</guid>
+      <guid>/1/01/01/</guid>
       <description>国家免疫规划疫苗儿童免疫程序表（2016版）code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
     </item>
     
