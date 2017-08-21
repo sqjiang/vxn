@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503303850871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "977330889",
+    "id" : "E25432E1",
+    "lastKnownWriteTime" : 1503303972,
+    "last_content_update" : 1503303972362,
+    "path" : "D:/Hugo/Sites/vxn/static/slides/2017-07-27-presentation.Rmd",
+    "project_path" : "static/slides/2017-07-27-presentation.Rmd",
+    "properties" : {
+        "cursorPosition" : "20,9",
+        "scrollLine" : "0",
+        "working_dir" : "default"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
