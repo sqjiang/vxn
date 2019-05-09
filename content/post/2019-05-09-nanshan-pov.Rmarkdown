@@ -1,0 +1,26 @@
+---
+title: nanshan pov
+author: nanshan cdc
+date: '2019-05-09'
+slug: nanshan-pov
+categories: []
+tags: []
+---
+```{r echo=FALSE,message=FALSE,warning=FALSE,out.height=800,out.width=1200}
+library(leaflet)
+library(leafletCN)
+library(tidyverse)
+library(readxl)
+library("ggmap")
+library("shiny")
+
+pov<-read_xlsx("d:/rstudy/pov/pov509.xlsx",sheet=1,col_names=T)
+
+
+pov$lnggd<-sapply(str_split(pov$gdlocation,pattern=","),'[',2)
+pov$latgd<-sapply(str_split(pov$gdlocation,pattern=","),'[',1)
+
+vacclogo<-icons(iconUrl="vacclogo.png",iconWidth = 25, iconHeight = 25)
+leaflet() %>% setView(lng=113.937144,lat=22.538767,zoom=12) %>% amap() %>% 
+  addMarkers(as.numeric(pov$lnggd),as.numeric(pov$latgd),icon=vacclogo,popup = pov$clinic) 
+```
